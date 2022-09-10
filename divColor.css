@@ -1,0 +1,12 @@
+.light {
+    background-color: red;
+}
+ 
+.dark {
+    background-image: linear-gradient(to top,green,white, red);
+}
+
+div{
+    height: 200px;
+    width: 300px;
+}
